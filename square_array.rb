@@ -5,7 +5,7 @@ def square_array(numbers)
   numbers.each do |number|
     newArray << number * number
 end
-
+newArray
 end
 
 square_array(numbers)
