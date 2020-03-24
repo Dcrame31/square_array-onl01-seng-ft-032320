@@ -6,4 +6,5 @@ def square_array(numbers)
     newArray << number * number
 end
 end
+
 square_array(numbers)
