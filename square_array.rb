@@ -2,7 +2,7 @@ numbers = [1,2,3]
 
 def square_array(numbers)
   numbers.each do |number|
-    Array.new = "#{number * number}" 
+    puts "#{number * number}" 
 end
 end
 
